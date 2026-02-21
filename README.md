@@ -3,7 +3,7 @@
 <!-- Animated Banner via readme-typing-svg - more reliable -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=2000&color=A78BFA&center=true&vCenter=true&width=700&height=80&lines=Hi+there%2C+I'm+Enes+%F0%9F%91%8B" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Student+Developer+%7C+Builder+%7C+Tinkerer;React+%E2%9A%9B%EF%B8%8F+%7C+Python+%F0%9F%90%8D+%7C+MongoDB+%F0%9F%8D%83+%7C+ESP32+%F0%9F%94%8C;Turning+ideas+into+real+things%2C+web+%26+hardware;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Student+Developer+%7C+Builder+%7C+Tinkerer;React+%E2%9A%9B%EF%B8%8F+%7C+Python+%F0%9F%90%8D+%7C+MongoDB+%F0%9F%8D%83+%7C+ESP32+%F0%9F%94%8C;Turning+ideas+into+real+things+%E2%80%94+web+%26+hardware;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
