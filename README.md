@@ -27,7 +27,7 @@ gadget that should exist but doesn't.
 enes = {
     "building":  ["full-stack web & mobile apps", "automation and scraping tools", "ESP32 / IoT gadgets"],
     "learning":  ["backend architecture", "TypeScript", "agentic coding workflows"],
-    "toolbox":   ["Python", "JavaScript / TypeScript", "React", "Node.js", "C++"],
+    "toolbox":   ["Python", "JavaScript / TypeScript", "React", "Node.js", "Java", "C++"],
     "open_to":   ["internships", "collaborations", "open source"],
 }
 ```
@@ -58,6 +58,7 @@ enes = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
